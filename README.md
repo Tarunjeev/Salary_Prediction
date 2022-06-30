@@ -34,5 +34,3 @@ python3 Data_Cleaning.py scraped_jobs.csv
 # Command to run main analysis:
 python3 Model_Building.py Cleaned_Data_final.csv
 
-# NOTE TO EVALUATORS:
-# All commits were made from one account (kkuninaka) due to technical issues
